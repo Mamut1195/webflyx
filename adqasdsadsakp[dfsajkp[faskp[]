@@ -1,0 +1,42 @@
+[33mcommit 32956567ea220d8c1d5e6125dfae82fba349fea3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Tue Feb 4 07:39:37 2025 -0500
+
+    G:
+
+[33mcommit 92526ca02db5c8fd29be70a014b9b8addbdc5422[m
+Merge: e588613 9e8c09e
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Tue Feb 4 07:31:49 2025 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit e58861363bbed350f07345e9c4e074972c5c76f6[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Mon Feb 3 08:03:45 2025 -0500
+
+    E:
+
+[33mcommit 9e8c09e8a1c87a42da8f2b9da42582e8a84e5edf[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Mon Feb 3 07:57:21 2025 -0500
+
+    D:
+
+[33mcommit 2cba7ce93ad1e4669719f05962d280b5db374ba5[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Sun Jan 26 10:34:41 2025 -0500
+
+    C: add quotes
+
+[33mcommit d572fe8dc1bc7ea8d06a5e7c3ad48abb365c15ca[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Sun Jan 26 10:28:27 2025 -0500
+
+    B: add titles
+
+[33mcommit 54c8d489d9e9acce06db9f79d781718288886bc7[m
+Author: Mamut1195 <100446119+Mamut1195@users.noreply.github.com>
+Date:   Fri Jan 24 21:16:12 2025 -0500
+
+    A: add contents.md
